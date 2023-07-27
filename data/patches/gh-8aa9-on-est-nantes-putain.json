@@ -1,0 +1,37 @@
+{
+	"id": -1,
+	"name": "On est Nantes putain",
+	"description": "Nantes is a city in western France. Nantes have ~300k inhabitants\n\n\"On est Nantes Putain\" is the motto of the FC Nantes, a soccer club.",
+	"links": {
+		"website": [
+			"https://en.m.wikipedia.org/wiki/Nantes",
+			"https://fr.m.wikipedia.org/wiki/Football_Club_de_Nantes"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				-1500,
+				574
+			],
+			[
+				-1472,
+				574
+			],
+			[
+				-1472,
+				594
+			],
+			[
+				-1500,
+				594
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-1486,
+			584
+		]
+	}
+}
